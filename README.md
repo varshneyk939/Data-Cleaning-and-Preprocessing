@@ -33,4 +33,3 @@ You can run the data cleaning script and generate the cleaned dataset yourself b
     ```bash
     python data_cleaning_script.py
     ```
-The script will print the summary of changes to the terminal and create a new file, `cleaned_mall_customer.csv`, in the same directory.
